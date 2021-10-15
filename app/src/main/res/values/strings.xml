@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Octubre13</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Apellido">Apellido</string>
+    <string name="Mail">Mail</string>
+    <string name="Password">Password</string>
+</resources>
